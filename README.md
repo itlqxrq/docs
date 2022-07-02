@@ -1,12 +1,14 @@
 ### Singularity(Java学习)
 
-1.**下面是作者自己学习积累的一下经验，希望对你们有所帮助**
+<div align="center"> <img src="https://singuiarity.oss-cn-shenzhen.aliyuncs.com/logo/BBB.PNG"/ width="200px"> </div><br>
 
-2.**海内存自己，天涯若比邻，有什么不足的可以通过联系作者联系我，我们一起学习，共同进步**
+1.**下面是作者自己学习积累的一些经验，希望对你们有所帮助**
+
+2.**如果有什么不足的可以通过联系作者联系我，我们一起学习，共同进步**
 
 <p align="center">
-  <a href="https://github.com/itwanger/toBeBetterJavaer" target="_blank"><img src="https://img.shields.io/badge/Gitee-Singularity-yellow"></a>
-  <a href="https://gitee.com/itwanger/toBeBetterJavaer" target="_blank"><img src="https://img.shields.io/badge/Github-Singularity-blue"></a>
+  <a href="https://github.com/itlqxrq/docs" target="_blank"><img src="https://img.shields.io/badge/Gitee-Singularity-yellow"></a>
+  <a href="https://github.com/itlqxrq/docs" target="_blank"><img src="https://img.shields.io/badge/Github-Singularity-blue"></a>
 </p>
 
 # Java核心
@@ -15,32 +17,32 @@
 
 ## Java基础语法
 
-* [Java基础语法](/Singularity/java/basics.md)
-* [面向对象思想](/Singularity/java/object.md)
+* [Java基础语法](/docs/Java/basics.md)
+* [面向对象思想](/docs/Java/object.md)
 
 ## Java并发编程
 
-- [Java并发编程](/Singularity/java/concurrency.md)
+- [Java并发编程](/docs/Java/concurrency.md)
 
 ## Java容器集合
 
-- [Java容器](/Singularity/java/container.md)
+- [Java容器](/docs/Java/container.md)
 
 ## Java虚拟机
 
-- [Java虚拟机](/Singularity/Java/virtualMachine.md)
+- [Java虚拟机](/docs/Java/virtualMachine.md)
 
 ## Java网络编程
 
-- [JavaIO](/Singularity/java/IO.md)
+- [JavaIO](/docs/Java/IO.md)
 
 ## Java设计模式
 
-- [单例模式](/Singularity/java/单例.md)
-- [代理模式](/Singularity/java/代理.md)
-- [观察者模式](/Singularity/java/观察者.md)
-- [适配器模式](/Singularity/java/适配器.md)
-- [装饰模式](/Singularity/java/装饰.md)
+- [单例模式](/docs/Java/单例.md)
+- [代理模式](/docs/Java/代理.md)
+- [观察者模式](/docs/Java/观察者.md)
+- [适配器模式](/docs/Java/适配器.md)
+- [装饰模式](/docs/Java/装饰.md)
 
 
 
@@ -50,13 +52,13 @@
 
 ## MySQL
 
-* [SQL语法操作](/Singularity/SQL/SQLGrammar.md)
-* [MySQL知识](/Singularity/SQL/MySQL.md)
-* [MySQL实战经验](/Singularity/SQL/SQLpractice.md)
+* [SQL语法操作](/docs/SQL/SQLGrammar.md)
+* [MySQL知识](/docs/SQL/MySQL.md)
+* [MySQL实战经验](/docs/SQL/SQLpractice.md)
 
 ## Redis
 
-- [Redis知识](/Singularity/SQL/Redis.md)
+- [Redis知识](/docs/SQL/Redis.md)
 
 
 
@@ -66,25 +68,25 @@
 
 ## 计算机操作系统
 
-- [概述](/Singularity/computer/概述.md)
-- [进程管理](/Singularity/computer/进程管理.md)
-- [链接](/Singularity/computer/链接.md)
-- [内存管理](/Singularity/computer/内存管理.md)
-- [设备管理](/Singularity/computer/设备管理.md)
-- [死锁](/Singularity/computer/死锁.md)
+- [概述](/docs/computer/概述.md)
+- [进程管理](/docs/computer/进程管理.md)
+- [链接](/docs/computer/链接.md)
+- [内存管理](/docs/computer/内存管理.md)
+- [设备管理](/docs/computer/设备管理.md)
+- [死锁](/docs/computer/死锁.md)
 
 ## Linux操作系统
 
-- [Linux基本知识](/Singularity/computer/linux.md)
+- [Linux基本知识](/docs/computer/linux.md)
 
 ## 计算机网络
 
-- [计算机网络概述](/Singularity/computer/计算机网络概述.md)
-- [传输层](/Singularity/computer/传输层.md)
-- [链路层](/Singularity/computer/链路层.md)
-- [网络层](/Singularity/computer/网络层.md)
-- [物理层](/Singularity/computer/物理层.md)
-- [应用层](/Singularity/computer/应用层.md)
+- [计算机网络概述](/docs/computer/计算机网络概述.md)
+- [传输层](/docs/computer/传输层.md)
+- [链路层](/docs/computer/链路层.md)
+- [网络层](/docs/computer/网络层.md)
+- [物理层](/docs/computer/物理层.md)
+- [应用层](/docs/computer/应用层.md)
 
 
 
@@ -95,15 +97,15 @@
 
 ## Leetcode算法
 
-- [二叉树](/Singularity/algorithm/树.md)
-- [栈和队列](/Singularity/algorithm/栈和队列.md)
-- [数组与矩阵](/Singularity/algorithm/数组与矩阵.md)
-- [搜索](/Singularity/algorithm/搜索.md)
-- [字符串](/Singularity/algorithm/字符串.md)
-- [哈希表](/Singularity/algorithm/哈希表.md)
-- [动态规划](/Singularity/algorithm/动态规划.md)
-- [双指针](/Singularity/algorithm/双指针.md)
-- [排序](/Singularity/algorithm/排序.md)
+- [二叉树](/docs/algorithm/树.md)
+- [栈和队列](/docs/algorithm/栈和队列.md)
+- [数组与矩阵](/docs/algorithm/数组与矩阵.md)
+- [搜索](/docs/algorithm/搜索.md)
+- [字符串](/docs/algorithm/字符串.md)
+- [哈希表](/docs/algorithm/哈希表.md)
+- [动态规划](/docs/algorithm/动态规划.md)
+- [双指针](/docs/algorithm/双指针.md)
+- [排序](/docs/algorithm/排序.md)
 
   
 
@@ -113,13 +115,13 @@
 - 纸上得来终觉浅，须知此事要躬行。
 
 ## Git基本使用
-- [Git基本使用](/Singularity/tools/Git.md)
+- [Git基本使用](/docs/Tools/Git.md)
 
 ## HTTP协议
-- [HTTP协议](/Singularity/tools/HTTP.md)
+- [HTTP协议](/docs/Tools/HTTP.md)
 
 ## 代码规范
-- [代码规范](/Singularity/tools/代码规范.md)
+- [代码规范](/docs/Tools/代码规范.md)
 
 
 
@@ -130,7 +132,7 @@
 
 ## 自我介绍
 
-- [走近作者：自我介绍 Q&A](/Singularity/aboutAuthor/author.md)
+- [走近作者：自我介绍 Q&A](/docs/aboutAuthor/author.md)
 
 ## 联系方式
 
